@@ -1,1 +1,16 @@
-ewogICJ0eXBlIjogInBlbmRpbmdfcmVnaXN0cmF0aW9uIiwKICAic291cmNlIjogInRjZy13ZWIiLAogICJhcHBWZXJzaW9uIjogInYxMC4xNy4wLWUyZS10ZXN0IiwKICAidXNlciI6IHsKICAgICJpZCI6IDE3ODkzNzAwMDAwMDAsCiAgICAibmFtZSI6ICLpk77ot6/mtYvor5Uo5Yu/5a6hKSIsCiAgICAicGhvbmUiOiAiMTk5OTk5OTAwMDAiLAogICAgInBhc3N3b3JkIjogInBia2RmMiRlMmUkMTAwMDAwJDAxMjM0NTY3ODlhYmNkZWYiLAogICAgInJvbGUiOiAidXNlciIsCiAgICAic3RhdHVzIjogInBlbmRpbmciLAogICAgImNyZWF0ZWQiOiAiMjAyNi85LzE0IiwKICAgICJyZW1hcmtzIjogIue9kemhteerr+eUs+ivtyIKICB9LAogICJ0aW1lc3RhbXAiOiAiMjAyNi0wOS0xNFQwODoxNTowMC4wMDBaIgp9
+{
+  "type": "pending_registration",
+  "source": "tcg-web",
+  "appVersion": "v10.17.0-e2e-test",
+  "user": {
+    "id": 1789370000000,
+    "name": "链路测试(勿审)",
+    "phone": "19999990000",
+    "password": "pbkdf2$e2e$100000$0123456789abcdef",
+    "role": "user",
+    "status": "pending",
+    "created": "2026/9/14",
+    "remarks": "网页端申请"
+  },
+  "timestamp": "2026-09-14T08:20:00.000Z"
+}
