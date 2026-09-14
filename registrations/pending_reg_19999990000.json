@@ -1,0 +1,16 @@
+{
+  "type": "pending_registration",
+  "source": "tcg-web",
+  "appVersion": "v10.17.0-e2e-test",
+  "user": {
+    "id": 1789370000000,
+    "name": "链路测试(勿审)",
+    "phone": "19999990000",
+    "password": "pbkdf2$e2e$100000$0123456789abcdef",
+    "role": "user",
+    "status": "pending",
+    "created": "2026/9/14",
+    "remarks": "网页端申请"
+  },
+  "timestamp": "2026-09-14T07:50:00.000Z"
+}
